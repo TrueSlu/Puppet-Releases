@@ -1,1 +1,1 @@
-# Puppet-Releases
+# Releases
